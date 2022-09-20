@@ -28,7 +28,7 @@ Subiendo archivos con extensión de vscode 'Thunder client'
    </p>
    
 <h4 align="center">
-Petición get con Postman
+Petición get con Postman, con esta url traemos la imagen de la nube, para descargarla o mostrarla a través del Frontend
 </h4>
    <p align="center">
    <img src="https://user-images.githubusercontent.com/87190518/191313497-14166ba7-b262-4d89-a48d-b030a9bb8225.jpg">
