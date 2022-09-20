@@ -34,4 +34,4 @@ Petición get con Postman, con esta url traemos la imagen de la nube, para desca
    <img src="https://user-images.githubusercontent.com/87190518/191313497-14166ba7-b262-4d89-a48d-b030a9bb8225.jpg">
    </p>
    
-   <p> Tutorial Fazt >>> https://www.youtube.com/watch?v=sDVRyFaoI8s&t=1s </p>
+   <p> Tutorial youtube >>> https://www.youtube.com/watch?v=sDVRyFaoI8s&t=1s </p>
